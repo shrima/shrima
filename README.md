@@ -1,0 +1,2 @@
+# shrima
+windows kernal training
